@@ -1,0 +1,58 @@
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 1: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 2: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 3: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 4: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: syntax error near unexpected token `"${1}"'
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: `    switch ( "${1}" )'
+
+Lmod is automatically replacing "openmpi/3.1.6" with "intel-mpi/2021.7".
+
+
+Lmod is automatically replacing "gcc/9.3.0" with "intel/2022.2".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cmake/3.27.7
+
+The following have been reloaded with a version change:
+  1) git/2.42.0 => git/2.38.1
+
+
+The following have been reloaded with a version change:
+  1) intel-mkl/2021.7 => intel-mkl/2022.0
+
+
+The following have been reloaded with a version change:
+  1) intel-mkl/2022.0 => intel-mkl/2021.7
+  2) intel/2022.2 => intel/2022.2-dpcpp
+
+
+Lmod is automatically replacing "intel/2022.2-dpcpp" with "gcc/9.3.0".
+
+
+Lmod is automatically replacing "intel-mpi/2021.7" with "openmpi/3.1.6".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cmake/3.27.7
+
+
+Lmod is automatically replacing "openmpi/3.1.6" with "intel-mpi/2021.7".
+
+
+Lmod is automatically replacing "gcc/9.3.0" with "intel/2022.2".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cmake/3.27.7
+
+The following have been reloaded with a version change:
+  1) git/2.42.0 => git/2.38.1
+
+
+The following have been reloaded with a version change:
+  1) intel-mkl/2022.0 => intel-mkl/2021.7
+  2) intel/2022.2 => intel/2022.2-dpcpp
+
+slurmstepd: error: Detected 2 oom_kill events in StepId=8257643.0. Some of the step tasks have been OOM Killed.
+srun: error: c548: task 1: Out Of Memory
